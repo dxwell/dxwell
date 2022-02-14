@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dxwell
-- 👀 I’m interested in data management, semantic data, linked data, ontologies, taxonomies and how these tools can help solve business problems
-- 🌱 I’m currently learning every single day
+- 👀 I’m interested in data architecture, semantic data, linked data, ontologies, taxonomies, and how these tools can help solve business problems
+- 🌱 I’m currently doing data architecture for cloud data platforms
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: david at crosslateral dot com dot au
