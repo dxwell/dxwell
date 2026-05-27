@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dxwell
-- 👀 I’m interested in data architecture, semantic data, linked data, ontologies, taxonomies, and how these tools can help solve business problems
-- 🌱 I’m currently doing data architecture for cloud data platforms
+- 👀 I'm a Data & AI Architect
+- 🌱 I’m currently using semantic data, ontologies, taxonomies, and knowledge graphs for reliable AI
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: david at crosslateral dot com dot au
